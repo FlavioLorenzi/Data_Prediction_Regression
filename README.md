@@ -1,5 +1,5 @@
-# Data_Prediction_Regression
-Predict data using Regression Techniques
+# Regression Machine Learning for data prediction 
+Predict data using Regression Techniques in python
 
 2 experiments: 
 - using linear regression to predict random numeric data distribution;
