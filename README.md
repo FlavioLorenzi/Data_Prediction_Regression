@@ -1,5 +1,5 @@
 # Regression Machine Learning for data prediction 
-Very simple predictions of data using Regression Techniques in python.
+Very trivial predictions of data using Regression Techniques in python.
 
 2 experiments: 
 - using linear regression to predict random numeric data distribution;
