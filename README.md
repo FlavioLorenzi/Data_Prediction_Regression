@@ -14,7 +14,13 @@ The objective of a linear regression model is to find a relationship between one
 ![](intro.png)
 
 
-## First approach
+# First approach
 
 
-## Second approach
+# Second approach
+
+
+
+## References
+https://towardsdatascience.com/linear-regression-using-python-b136c91bf0a2
+https://www.w3schools.com/python/python_ml_multiple_regression.asp
