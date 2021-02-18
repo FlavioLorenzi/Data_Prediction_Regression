@@ -32,7 +32,7 @@ NB: numpy + matplotlib + sklearn modules used
 
 # Second approach
 In this experiment we want to predict cars CO2 emission given the pandas dataset.csv
-In the proposed work I predict the CO2 emission of a car where the weight is 2300kg, and the volume is 1300cm3; the output was good: 107.2
+In the proposed work I predict the CO2 emission of a car where the weight is 2300kg, and the volume is 1300cm3; the output was good: 107.2 g
 
 NB: I used pandas module
 
